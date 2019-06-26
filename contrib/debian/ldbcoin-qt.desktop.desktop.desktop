@@ -1,0 +1,11 @@
+[Desktop Entry]
+Encoding=UTF-8
+Name=ldbcoin
+Comment=LDB P2P Cryptocurrency
+Exec=ldbcoin-qt %u
+Terminal=false
+Type=Application
+Icon=ldbcoin128
+MimeType=x-scheme-handler/ldbcoin;
+Categories=Office;Finance;
+Name[ru]=ldbcoin-qt.desktop.desktop
